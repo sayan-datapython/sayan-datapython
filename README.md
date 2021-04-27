@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sayan-datapython
+- 👋 Hi, I’m Sudendu Chatterjee
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
